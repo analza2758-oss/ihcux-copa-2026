@@ -155,4 +155,3 @@ Botão de ajuda que:
 * Permite atendimento rápido em emergências
 
 ---
-ias.
